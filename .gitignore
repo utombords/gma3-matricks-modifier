@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.code-workspace
+
+# Archives / temp
+*.zip
+*.tmp
