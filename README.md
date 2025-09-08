@@ -2,6 +2,14 @@
 
 An on-screen editor for MAtricks on grandMA3. Edit MAtricks values for either the current Selection or a named MAtricks pool item via a tidy UI.
 
+## Features
+- Direct edit for Matricks selection and items.
+- Presets naming (dubble click store)
+- Editable amount of preset slot (click Matricks: header)
+- Toggle Matricks clear on preset loading
+- Toggle fade time for phase swaps
+
+
 ## Screenshot
 
 ![MAtricks Modifier UI](assets/screenshot.png)
